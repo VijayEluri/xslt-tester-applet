@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+  <album>
+    <title>Sgt. Pepper's Lonely Hearts Club Band</title>
+    <artist>The Beatles</artist>
+    <year>1967</year>
+    <labels>
+      <label>Parlophone</label>
+      <label>Capitol</label>
+    </labels>
+  </album>
+  <album>
+    <title>Pet Sounds</title>
+    <artist>The Beach Boys</artist>
+    <year>1966</year>
+    <labels>
+      <label>Capitol</label>
+    </labels>
+  </album>
+  <album>
+    <title>Revolver</title>
+    <artist>The Beatles</artist>
+    <year>1966</year>
+    <labels>
+      <label>Parlophone</label>
+      <label>Capitol</label>
+      <label>EMI</label>
+    </labels>
+  </album>
+  <album>
+    <title>Highway 61 Revisited</title>
+    <artist>Bob Dylan</artist>
+    <year>1965</year>
+    <labels>
+      <label>Columbia</label>
+    </labels>
+  </album>
+  <album>
+    <title>Rubber Soul</title>
+    <artist>The Beatles</artist>
+    <year>1965</year>
+    <labels>
+      <label>Parlophone</label>
+      <label>Capitol</label>
+      <label>EMI</label>
+    </labels>
+  </album>
+</albums>
